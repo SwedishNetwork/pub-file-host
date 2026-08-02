@@ -1,1 +1,1 @@
-personal repo for public raw links for file hosting 🔗
+personal repo that gathers raw links for public file hosting 🔗
